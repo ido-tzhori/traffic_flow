@@ -5,7 +5,6 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Future Work](#future-work)
-4. [Contributing](#contributing)
 
 ## Introduction
 
